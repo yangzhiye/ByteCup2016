@@ -41,7 +41,7 @@ NDCG结果:0.49
 *离散化的label特征
 
 ##尝试过的深度学习模型(最优结果0.49)
-![结果:0.49](dp1.png)
+![](https://github.com/yangzhiye/ImageCache/raw/master/ByteCup2016/dp1.png)
 
 ![结果:0.46](dp2.png)
 
