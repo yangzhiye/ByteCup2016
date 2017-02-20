@@ -44,11 +44,11 @@ NDCG结果:0.49
 ###结果:0.49
 ![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/%20dp1.png?raw=true)
 ###结果:0.46
-![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/%20dp2.png?raw=true)
+![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/dp2.png?raw=true)
 ###结果:0.42
-![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/%20dp3.png?raw=true)
+![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/dp3.png?raw=true)
 ###结果:0.49
-![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/%20dp4.png?raw=true)
+![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/dp4.png?raw=true)
 
 ##备注
 ###特征提取过程参见:create_features.py,其实还提了很多特征，不过都不work。
