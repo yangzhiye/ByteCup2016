@@ -42,7 +42,7 @@ NDCG结果:0.49
 
 ##尝试过的深度学习模型(最优结果0.49)
 
-![](http://github.com/yangzhiye/ImageCache/raw/master/ByteCup2016/dp1.png)
+![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/%20dp1.png?raw=true)
 
 ##备注
 ###特征提取过程参见:create_features.py,其实还提了很多特征，不过都不work。
