@@ -41,14 +41,9 @@ NDCG结果:0.49
 *离散化的label特征
 
 ##尝试过的深度学习模型(最优结果0.49)
-![](https://github.com/yangzhiye/ImageCache/raw/master/ByteCup2016/dp1.png =100*100)
 
-![结果:0.46](1.png)
-
-![结果:0.42](dp3.png)
-
-![结果:0.49](dp4.png)
-
+![](https://github.com/yangzhiye/ImageCache/raw/master/ByteCup2016/dp1.png)
+![](http://pic6.huitu.com/res/20130116/84481_20130116142820494200_1.jpg)
 ##备注
 ###特征提取过程参见:create_features.py,其实还提了很多特征，不过都不work。
 ###word2vec调参结果:HS+Skipgram+1minwords+10windows+50维
