@@ -43,7 +43,7 @@ NDCG结果:0.49
 ##尝试过的深度学习模型(最优结果0.49)
 ![](https://github.com/yangzhiye/ImageCache/raw/master/ByteCup2016/dp1.png)
 
-![结果:0.46](dp2.png)
+![结果:0.46](1.png)
 
 ![结果:0.42](dp3.png)
 
