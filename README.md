@@ -42,8 +42,8 @@ NDCG结果:0.49
 
 ##尝试过的深度学习模型(最优结果0.49)
 
-![](https://github.com/yangzhiye/ImageCache/raw/master/ByteCup2016/dp1.png)
-![](http://pic6.huitu.com/res/20130116/84481_20130116142820494200_1.jpg)
+![](http://github.com/yangzhiye/ImageCache/raw/master/ByteCup2016/dp1.png)
+
 ##备注
 ###特征提取过程参见:create_features.py,其实还提了很多特征，不过都不work。
 ###word2vec调参结果:HS+Skipgram+1minwords+10windows+50维
