@@ -2,6 +2,8 @@
 ##数据描述
 * ByteCup2016数据挖掘竞赛,问题推荐
 
+* 比赛地址 https://biendata.com/competition/bytecup2016/
+
 * 专家表：专家ID，专家Label，专家描述(词),专家描述(字)  
 
 * 问题表：问题ID，问题Label(不对应于专家Label)，问题描述(词),问题描述(字),点赞数，回答数，精品回答数  
@@ -44,19 +46,19 @@
 
 ##尝试过的深度学习模型(最优结果0.49)
 ###1.结果:0.49
-![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/%20dp1.png?raw=true =150*150)
+![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/%20dp1.png?raw=true)
 
 
 ###2.结果:0.46
-![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/dp2.png?raw=true =150*150)
+![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/dp2.png?raw=true)
 
 
 ###3.结果:0.42
-![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/dp3.png?raw=true =150*150)
+![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/dp3.png?raw=true)
 
 
 ###4.结果:0.49
-![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/dp4.png?raw=true =150*150)
+![](https://github.com/yangzhiye/ImageCache/blob/master/ByteCup2016/dp4.png?raw=true)
 
 
 
